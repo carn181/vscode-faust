@@ -1,7 +1,7 @@
 {
   "name": "vscode-faust",
   "displayName": "Faust",
-  "description": "",
+  "description": "Language support for Faust, a functional programming language for real-time signal processing",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
